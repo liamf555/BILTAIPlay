@@ -2,12 +2,12 @@
 
 ## Ideas
 
-Volcanology in Google Colab
-2D games using pygame
-Geometric shapes in Processing
-Simple website in Replit
-Move servos in Wowki
-Control a robot in Webots
+Volcanology in Google Colab \
+2D games using pygame \
+Geometric shapes in Processing \
+Simple website in Replit \
+Move servos in Wowki \
+Control a robot in Webots 
 
 ## Tools and software
 
